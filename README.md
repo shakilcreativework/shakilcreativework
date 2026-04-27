@@ -1,5 +1,5 @@
 <!-- 🔥 Banner -->
-![Banner](https://i.ibb.co.com/RpYvrg4x/arts-5.jpg)
+![Banner](https://i.ibb.co.com/nM4b4CJz/creativedesign.png)
 
 # 👋 Hi, I'm Md Shakil Ahmed
 ### 💻 Frontend Developer | MERN Stack Developer (Learner)
@@ -98,7 +98,7 @@ A fully responsive, conversion-focused design resource platform where users can:
 
 ## 🖼️ Preview
 
-![Creativedesign Screenshot](./assets/preview.png)
+![Creativedesign Screenshot](https://i.ibb.co.com/nM4b4CJz/creativedesign.png)
 
 ---
 
