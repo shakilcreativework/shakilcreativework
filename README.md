@@ -231,7 +231,7 @@ src/
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/yourusername/creativedesign.git
+git clone https://github.com/creativedesign/creativedesign.git
 cd creativedesign
 npm install
 npm run dev
