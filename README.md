@@ -1,16 +1,92 @@
-## Hi there 👋
+<!-- 🔥 Banner -->
+![Banner](https://i.ibb.co.com/YOUR-BANNER.png)
 
-<!--
-**shakilcreativework/shakilcreativework** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Md Shakil Ahmed
+### 💻 Frontend Developer | MERN Stack Developer (Learner)
 
-Here are some ideas to get you started:
+📍 Sirajgonj, Bangladesh  
+📧 shakilcreativework@gmail.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+I am a passionate web developer focused on building modern, responsive, and user-friendly web applications.  
+Currently, I am learning full-stack development and working on real-world projects to improve my skills and create impactful digital products.
+
+---
+
+## 🚀 What I'm Doing
+
+- 🔭 I’m currently working on a scalable Free & Premium Vector / Design Resource Platform  
+- 🌱 I’m diving deep into React, Next.js, and full-stack development (Node.js, MongoDB)  
+- 👯 I’m open to collaborating on frontend or MERN stack projects  
+- 🤔 I’m seeking guidance on backend architecture and scalable application design  
+- 💬 Ask me about HTML, CSS, Tailwind, JavaScript, React, and modern UI development  
+- 📫 Reach me at: shakilcreativework@gmail.com  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I enjoy turning simple ideas into real-world products that people actually use 🚀  
+
+---
+
+## ⚡ Skills
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
+
+### 🛠 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p>
+  <a href="YOUR_LINKEDIN">LinkedIn</a> |
+  <a href="YOUR_FACEBOOK">Facebook</a> |
+  <a href="YOUR_DISCORD">Discord</a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![Shakil's GitHub stats](https://github-readme-stats.vercel.app/api?username=shakilcreativework&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shakilcreativework&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=shakilcreativework&theme=radical)
+
+---
+
+## 🏆 Achievements
+
+- 🎓 Completed Web Development Course (Batch 07)  
+- 🚀 Currently continuing Batch 13  
+- 💻 Building real-world full-stack projects  
+
+---
+
+## 📌 Featured Project
+
+### 🎨 Free Vector Download Platform
+A modern design resource platform where users can explore and download free & premium vector designs.
+
+**Key Features:**
+- 🎁 Free & Premium system  
+- 🔥 Trending design section  
+- 📂 Category-based browsing  
+- ⚡ Clean UI & responsive design  
+
+---
+
+## ⚡ Focus
+
+Building real-world projects, improving problem-solving skills, and becoming a professional full-stack developer 🚀
