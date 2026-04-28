@@ -49,8 +49,8 @@ Currently, I am learning full-stack development and working on real-world projec
 
 ## 🌐 Connect With Me
 <p>
-  <a href="YOUR_LINKEDIN">LinkedIn</a> |
-  <a href="YOUR_FACEBOOK">Facebook</a> |
+  <a href="https://www.linkedin.com/in/md-shakil-ahmed-3702533b4">LinkedIn</a> |
+  <a href="https://www.facebook.com/shakilahmed.price.509">Facebook</a> |
   <a href="YOUR_DISCORD">Discord</a>
 </p>
 
