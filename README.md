@@ -74,6 +74,8 @@ I am a passionate frontend developer focused on building modern, responsive, and
   </a>
 </p>
 
+---
+
 ### ⚔️ Shadowchase — Immersive Web App
 > **An immersive web experience tracking and gamifying interactive elements, featuring a high-fidelity dark UI and state-driven animations.**
 
@@ -91,6 +93,8 @@ I am a passionate frontend developer focused on building modern, responsive, and
     <img src="https://img.shields.io/badge/📦_GitHub_Repo-121212?style=flat-square&logoColor=white" alt="GitHub Repo" />
   </a>
 </p>
+
+---
 
 ### 🛒 Prism & Ocean Studio — Creative UI Concept
 > **Modern frontend applications displaying clean component architecture, modular product layouts, and exceptionally smooth UX flows.**
