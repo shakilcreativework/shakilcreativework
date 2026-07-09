@@ -6,7 +6,7 @@
 
 📍 Sirajgonj, Bangladesh
 📧 shakilcreativework@gmail.com
-📱 +880 1305330393 <!-- replace with your real number -->
+📱 +880 1305330393
 🔗 [shakilcreativework-portfolio.vercel.app](https://shakilcreativework-portfolio.vercel.app)
 
 ---
@@ -118,6 +118,29 @@ I am a passionate frontend developer focused on building modern, responsive, and
 
 ---
 
+### 📚 Digital Life Lessons — Full-Stack Content Platform
+> **A full-stack platform where users create, preserve, and share meaningful life lessons, with secure authentication (Better Auth) and Stripe-powered premium access control.**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+</p>
+
+<p align="left">
+  <a href="https://digital-life-lessons-client-one.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-FF4500?style=flat-square&logoColor=white" alt="Live Demo" />
+  </a>
+  <a href="https://github.com/shakilcreativework/digital-life-lessons-client" target="_blank">
+    <img src="https://img.shields.io/badge/📦_GitHub_Repo-121212?style=flat-square&logoColor=white" alt="GitHub Repo" />
+  </a>
+</p>
+
+<!-- Replace the live demo URL with your real deployed link before publishing -->
+
+---
+
 ## 🌐 Connect With Me
 <p>
   <a href="https://www.linkedin.com/in/shakilcreativework" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -125,9 +148,12 @@ I am a passionate frontend developer focused on building modern, responsive, and
 </p>
 
 <!--
-  Replaced Facebook + broken Discord link with Portfolio + Twitter/X.
-  Update the LinkedIn URL above once you've changed your custom URL,
-  and swap in your real Twitter/X handle (or remove that badge if you don't use it).
+  Discord badge removed for now — add it back later once you've decided between a plain-text
+  username badge or a personal server invite link (see earlier notes for both options).
+
+  NEW TABS: GitHub strips target="_blank" from every README link platform-wide for security reasons —
+  this affects all repos, not just yours, and there is no markdown/HTML workaround. Readers can still
+  open any link in a new tab themselves with Ctrl/Cmd+click. Nothing to fix here.
 -->
 
 ---
