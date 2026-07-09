@@ -4,8 +4,10 @@
 
 ### 💻 Developer, Designer & Digital Creator | Frontend Engineer
 
-📍 Sirajgonj, Bangladesh  
-📧 shakilcreativework@gmail.com  
+📍 Sirajgonj, Bangladesh
+📧 shakilcreativework@gmail.com
+📱 +880 1305330393 <!-- replace with your real number -->
+🔗 [shakilcreativework-portfolio.vercel.app](https://shakilcreativework-portfolio.vercel.app)
 
 ---
 
@@ -61,7 +63,7 @@ I am a passionate frontend developer focused on building modern, responsive, and
 > **A premium platform built to organize, filter, and showcase vector assets and creative digital resources with smooth user interactions.**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
@@ -80,8 +82,8 @@ I am a passionate frontend developer focused on building modern, responsive, and
 > **An immersive web experience tracking and gamifying interactive elements, featuring a high-fidelity dark UI and state-driven animations.**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
@@ -100,8 +102,8 @@ I am a passionate frontend developer focused on building modern, responsive, and
 > **Modern frontend applications displaying clean component architecture, modular product layouts, and exceptionally smooth UX flows.**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
@@ -118,10 +120,16 @@ I am a passionate frontend developer focused on building modern, responsive, and
 
 ## 🌐 Connect With Me
 <p>
-  <a href="https://www.linkedin.com/in/md-shakil-ahmed-3702533b4" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.facebook.com/shakilahmed.price.509" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="YOUR_PERSONAL_DISCORD_LINK_HERE" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shakil-ahmed-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://shakilcreativework-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://twitter.com/YOUR_HANDLE" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
+
+<!--
+  Replaced Facebook + broken Discord link with Portfolio + Twitter/X.
+  Update the LinkedIn URL above once you've changed your custom URL,
+  and swap in your real Twitter/X handle (or remove that badge if you don't use it).
+-->
 
 ---
 
