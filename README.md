@@ -59,65 +59,6 @@ I am a passionate frontend developer focused on building modern, responsive, and
 
 <br />
 
-### 🎨 VectorArt — Premium Asset Platform
-> **A premium platform built to organize, filter, and showcase vector assets and creative digital resources with smooth user interactions.**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
-<p align="left">
-  <a href="https://creativedesign-assets.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Live_Demo-FF4500?style=flat-square&logoColor=white" alt="Live Demo" />
-  </a>
-  <a href="https://github.com/shakilcreativework/creativework" target="_blank">
-    <img src="https://img.shields.io/badge/📦_GitHub_Repo-121212?style=flat-square&logoColor=white" alt="GitHub Repo" />
-  </a>
-</p>
-
----
-
-### ⚔️ Shadowchase — Immersive Web App
-> **An immersive web experience tracking and gamifying interactive elements, featuring a high-fidelity dark UI and state-driven animations.**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
-<p align="left">
-  <a href="https://shadowchase-live-link.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Live_Demo-FF4500?style=flat-square&logoColor=white" alt="Live Demo" />
-  </a>
-  <a href="https://github.com/shakilcreativework/shadowchase" target="_blank">
-    <img src="https://img.shields.io/badge/📦_GitHub_Repo-121212?style=flat-square&logoColor=white" alt="GitHub Repo" />
-  </a>
-</p>
-
----
-
-### 🛒 Prism & Ocean Studio — Creative UI Concept
-> **Modern frontend applications displaying clean component architecture, modular product layouts, and exceptionally smooth UX flows.**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
-<p align="left">
-  <a href="https://oceanstudio-live-link.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Live_Demo-FF4500?style=flat-square&logoColor=white" alt="Live Demo" />
-  </a>
-  <a href="https://github.com/shakilcreativework/prism-ocean" target="_blank">
-    <img src="https://img.shields.io/badge/📦_GitHub_Repo-121212?style=flat-square&logoColor=white" alt="GitHub Repo" />
-  </a>
-</p>
-
----
-
 ### 📚 Digital Life Lessons — Full-Stack Content Platform
 > **A full-stack platform where users create, preserve, and share meaningful life lessons, with secure authentication (Better Auth) and Stripe-powered premium access control.**
 
@@ -129,7 +70,7 @@ I am a passionate frontend developer focused on building modern, responsive, and
 </p>
 
 <p align="left">
-  <a href="https://your-live-demo-url.vercel.app/" target="_blank">
+  <a href="https://digital-life-lessons-client-one.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Live_Demo-FF4500?style=flat-square&logoColor=white" alt="Live Demo" />
   </a>
   <a href="https://github.com/shakilcreativework/digital-life-lessons-client" target="_blank">
@@ -154,6 +95,26 @@ I am a passionate frontend developer focused on building modern, responsive, and
     <img src="https://img.shields.io/badge/🌐_Live_Demo-FF4500?style=flat-square&logoColor=white" alt="Live Demo" />
   </a>
   <a href="https://github.com/shakilcreativework/creativework" target="_blank">
+    <img src="https://img.shields.io/badge/📦_GitHub_Repo-121212?style=flat-square&logoColor=white" alt="GitHub Repo" />
+  </a>
+</p>
+
+---
+
+### 🌞 SunCart — Summer Essentials Store
+> **A modern eCommerce store featuring email/Google authentication, protected product details, and a full user profile system.**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+<p align="left">
+  <a href="https://suncart-store.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-FF4500?style=flat-square&logoColor=white" alt="Live Demo" />
+  </a>
+  <a href="https://github.com/shakilcreativework/suncart-store" target="_blank">
     <img src="https://img.shields.io/badge/📦_GitHub_Repo-121212?style=flat-square&logoColor=white" alt="GitHub Repo" />
   </a>
 </p>
