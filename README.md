@@ -71,7 +71,7 @@ I am a passionate frontend developer focused on building modern, responsive, and
   <a href="https://creativedesign-assets.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Live_Demo-FF4500?style=flat-square&logoColor=white" alt="Live Demo" />
   </a>
-  <a href="https://github.com/shakilcreativework/vectorart" target="_blank">
+  <a href="https://github.com/shakilcreativework/creativework" target="_blank">
     <img src="https://img.shields.io/badge/📦_GitHub_Repo-121212?style=flat-square&logoColor=white" alt="GitHub Repo" />
   </a>
 </p>
@@ -129,7 +129,7 @@ I am a passionate frontend developer focused on building modern, responsive, and
 </p>
 
 <p align="left">
-  <a href="https://digital-life-lessons-client-one.vercel.app" target="_blank">
+  <a href="https://your-live-demo-url.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Live_Demo-FF4500?style=flat-square&logoColor=white" alt="Live Demo" />
   </a>
   <a href="https://github.com/shakilcreativework/digital-life-lessons-client" target="_blank">
@@ -138,6 +138,25 @@ I am a passionate frontend developer focused on building modern, responsive, and
 </p>
 
 <!-- Replace the live demo URL with your real deployed link before publishing -->
+
+---
+
+### 🎨 VectorArt — Premium Asset Platform
+> **A premium platform built to organize, filter, and showcase vector assets and creative digital resources with smooth user interactions.**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+<p align="left">
+  <a href="https://creativedesign-assets.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-FF4500?style=flat-square&logoColor=white" alt="Live Demo" />
+  </a>
+  <a href="https://github.com/shakilcreativework/creativework" target="_blank">
+    <img src="https://img.shields.io/badge/📦_GitHub_Repo-121212?style=flat-square&logoColor=white" alt="GitHub Repo" />
+  </a>
+</p>
 
 ---
 
