@@ -11,6 +11,8 @@
 
 🎯 **Currently open to:** Frontend / Full-Stack Developer roles (remote or on-site), and freelance web development projects.
 
+<img src="https://komarev.com/ghpvc/?username=shakilcreativework&label=Profile%20Views&color=orange&style=for-the-badge" alt="Profile views" />
+
 ---
 
 ## 🧠 About Me
@@ -79,14 +81,7 @@ I am a passionate frontend developer focused on building modern, responsive, and
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
 </p>
 
-<p align="left">
-  <a href="https://digital-life-lessons-client-one.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Live_Demo-FF4500?style=flat-square&logoColor=white" alt="Live Demo" />
-  </a>
-  <a href="https://github.com/shakilcreativework/digital-life-lessons-client" target="_blank">
-    <img src="https://img.shields.io/badge/📦_GitHub_Repo-121212?style=flat-square&logoColor=white" alt="GitHub Repo" />
-  </a>
-</p>
+**[🌐 Live Demo](https://digital-life-lessons-client-one.vercel.app)** &nbsp;•&nbsp; **[📦 GitHub Repo](https://github.com/shakilcreativework/digital-life-lessons-client)**
 
 ---
 
@@ -98,14 +93,7 @@ I am a passionate frontend developer focused on building modern, responsive, and
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
-<p align="left">
-  <a href="https://creativedesign-assets.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Live_Demo-FF4500?style=flat-square&logoColor=white" alt="Live Demo" />
-  </a>
-  <a href="https://github.com/shakilcreativework/creativework" target="_blank">
-    <img src="https://img.shields.io/badge/📦_GitHub_Repo-121212?style=flat-square&logoColor=white" alt="GitHub Repo" />
-  </a>
-</p>
+**[🌐 Live Demo](https://creativedesign-assets.netlify.app/)** &nbsp;•&nbsp; **[📦 GitHub Repo](https://github.com/shakilcreativework/creativework)**
 
 ---
 
@@ -118,26 +106,20 @@ I am a passionate frontend developer focused on building modern, responsive, and
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-<p align="left">
-  <a href="https://suncart-store.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Live_Demo-FF4500?style=flat-square&logoColor=white" alt="Live Demo" />
-  </a>
-  <a href="https://github.com/shakilcreativework/suncart-store" target="_blank">
-    <img src="https://img.shields.io/badge/📦_GitHub_Repo-121212?style=flat-square&logoColor=white" alt="GitHub Repo" />
-  </a>
-</p>
+**[🌐 Live Demo](https://suncart-store.vercel.app)** &nbsp;•&nbsp; **[📦 GitHub Repo](https://github.com/shakilcreativework/suncart-store)**
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shakilcreativework&show_icons=true&theme=radical" alt="Shakil's GitHub stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakilcreativework&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<!--
+  NOTE: The main stats card and Top Languages card (from github-readme-stats.vercel.app) were
+  removed — that public instance is shared by thousands of profiles and frequently rate-limited,
+  so they were rendering as broken/plain-text links instead of real cards, which added no value.
+  The Streak card below (a different, more reliable service) is kept since it renders correctly.
+  If you want the full stats back later, self-host github-readme-stats on your own Vercel account
+  (fork https://github.com/anuraghazra/github-readme-stats, one-click deploy) for a reliable version.
+-->
 
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=shakilcreativework&theme=radical" alt="GitHub Streak" />
@@ -153,8 +135,4 @@ Have a role or project in mind? I'd love to hear from you.
   <a href="https://www.linkedin.com/in/shakilcreativework" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:shakilcreativework@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://shakilcreativework-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shakilcreativework&label=Profile%20Views&color=orange&style=flat" alt="Profile views" />
 </p>
