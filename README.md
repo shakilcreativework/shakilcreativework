@@ -9,6 +9,8 @@
 📱 +880 1305330393
 🔗 [shakilcreativework-portfolio.vercel.app](https://shakilcreativework-portfolio.vercel.app)
 
+🎯 **Currently open to:** Frontend / Full-Stack Developer roles (remote or on-site), and freelance web development projects.
+
 ---
 
 ## 🧠 About Me
@@ -55,6 +57,14 @@ I am a passionate frontend developer focused on building modern, responsive, and
 
 ---
 
+## 🏆 Achievements & Coursework
+
+* **🥇 Completed Web Development Course (Batch 07)** – Successfully completed rigorous frontend training, mastering modern layout designs, responsive web architecture, and clean code principles.
+* **🚀 Currently Advancing in Batch 13** – Actively continuing advanced training focused on full-stack development scaling, robust state management, and production-ready architectures.
+* **💻 Building Production-Ready Projects** – Developing and deploying multiple live full-stack and frontend applications featured across my digital portfolio.
+
+---
+
 ## 📌 Featured Projects
 
 <br />
@@ -78,11 +88,9 @@ I am a passionate frontend developer focused on building modern, responsive, and
   </a>
 </p>
 
-<!-- Replace the live demo URL with your real deployed link before publishing -->
-
 ---
 
-### 🎨 VectorArt — Premium Asset Platform
+### 🎨 CreativeDesign — Premium Asset Platform
 > **A premium platform built to organize, filter, and showcase vector assets and creative digital resources with smooth user interactions.**
 
 <p align="left">
@@ -121,23 +129,6 @@ I am a passionate frontend developer focused on building modern, responsive, and
 
 ---
 
-## 🌐 Connect With Me
-<p>
-  <a href="https://www.linkedin.com/in/shakilcreativework" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://shakilcreativework-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
-
-<!--
-  Discord badge removed for now — add it back later once you've decided between a plain-text
-  username badge or a personal server invite link (see earlier notes for both options).
-
-  NEW TABS: GitHub strips target="_blank" from every README link platform-wide for security reasons —
-  this affects all repos, not just yours, and there is no markdown/HTML workaround. Readers can still
-  open any link in a new tab themselves with Ctrl/Cmd+click. Nothing to fix here.
--->
-
----
-
 ## 📊 GitHub Stats
 
 <p align="left">
@@ -154,8 +145,16 @@ I am a passionate frontend developer focused on building modern, responsive, and
 
 ---
 
-## 🏆 Achievements & Coursework
+## 🌐 Connect With Me
 
-* **🥇 Completed Web Development Course (Batch 07)** – Successfully completed rigorous frontend training, mastering modern layout designs, responsive web architecture, and clean code principles.
-* **🚀 Currently Advancing in Batch 13** – Actively continuing advanced training focused on full-stack development scaling, robust state management, and production-ready architectures.
-* **💻 Building Production-Ready Projects** – Developing and deploying multiple live full-stack and frontend applications featured across my digital portfolio.
+Have a role or project in mind? I'd love to hear from you.
+
+<p>
+  <a href="https://www.linkedin.com/in/shakilcreativework" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:shakilcreativework@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://shakilcreativework-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shakilcreativework&label=Profile%20Views&color=orange&style=flat" alt="Profile views" />
+</p>
