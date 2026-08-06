@@ -1,4 +1,4 @@
-![Banner](https://i.ibb.co.com/qYB0R6V3/8469936.jpg)
+![Banner](https://res.cloudinary.com/drctougur/image/upload/v1786049098/shakil-github-banner_bguoez.png)
 
 ### 👋 Hi, I'm Shakil
 
