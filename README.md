@@ -95,7 +95,7 @@ I am a passionate **MERN Stack Developer** focused on engineering responsive, hi
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
 </p>
 
-**[🌐 Live Demo](https://creativedesign-client.vercel.app)** &nbsp;•&nbsp; **[📦 GitHub Repo](https://github.com/shakilcreativework/creativework)**
+**[🌐 Live Demo](https://creativedesign-client.vercel.app)**
 
 ---
 
