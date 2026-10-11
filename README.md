@@ -68,11 +68,9 @@ const shakil = {
 ### 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/shakilcreativework/suncart-store"><img height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=shakilcreativework&repo=suncart-store&theme=dark&title_color=00FF88&text_color=FFFFFF&bg_color=0D1117&hide_border=true" alt="SunCart — e-commerce" /></a>
-  <a href="https://github.com/shakilcreativework/digital-life-lessons-client"><img height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=shakilcreativework&repo=digital-life-lessons-client&theme=dark&title_color=00FF88&text_color=FFFFFF&bg_color=0D1117&hide_border=true" alt="Digital Life Lessons" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/shakilcreativework/creativework"><img height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=shakilcreativework&repo=creativework&theme=dark&title_color=00FF88&text_color=FFFFFF&bg_color=0D1117&hide_border=true" alt="CreativeWork" /></a>
+  <a href="https://github.com/shakilcreativework/suncart-store"><img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=shakilcreativework&repo=suncart-store&theme=dark&title_color=00FF88&text_color=FFFFFF&bg_color=0D1117&hide_border=true" alt="SunCart — e-commerce" /></a>
+  <a href="https://github.com/shakilcreativework/digital-life-lessons-client"><img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=shakilcreativework&repo=digital-life-lessons-client&theme=dark&title_color=00FF88&text_color=FFFFFF&bg_color=0D1117&hide_border=true" alt="Digital Life Lessons" /></a>
+  <a href="https://github.com/shakilcreativework/creativework"><img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=shakilcreativework&repo=creativework&theme=dark&title_color=00FF88&text_color=FFFFFF&bg_color=0D1117&hide_border=true" alt="CreativeWork" /></a>
 </p>
 
 <p align="center">🍽️ <b>FlavorAI</b> (AI recipe generator) • 🎪 <b>Venuo</b> (event platform) • 🎨 and more live on my <a href="https://shakilcreativework-portfolio.vercel.app"><b>portfolio</b></a></p>
