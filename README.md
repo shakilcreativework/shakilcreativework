@@ -6,8 +6,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shakilcreativework&color=00ff88&style=flat-square&label=PROFILE+VIEWS" alt="profile views" />
-  <a href="https://www.linkedin.com/in/shakilcreativework"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://shakilcreativework-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-00FF88?style=flat-square&logo=vercel&logoColor=black" alt="Portfolio" /></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/shakilcreativework"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://shakilcreativework-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-00FF88?style=flat-square&logo=vercel&logoColor=black" alt="Portfolio" /></a>
   <img src="https://img.shields.io/badge/Open_to_Internships_%26_Junior_Roles-00FF88?style=flat-square&logo=github&logoColor=black" alt="Open to work" />
 </p>
 
@@ -29,8 +29,8 @@ const shakil = {
 - 🔭 Currently building full-stack web apps with the **MERN stack**
 - 🌱 Exploring **Next.js 15**, server actions & AI-powered features
 - 🎨 Also a **microstock contributor** — thousands of pixel-art assets on Adobe Stock
-- 💼 Open to **internships & junior developer roles** — [let's connect!](https://www.linkedin.com/in/shakilcreativework)
-- 📫 Portfolio: **[shakilcreativework-portfolio.vercel.app](https://shakilcreativework-portfolio.vercel.app)**
+- 💼 Open to **internships & junior developer roles** — <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/shakilcreativework">let's connect!</a>
+- 📫 Portfolio: **<a target="_blank" rel="noopener noreferrer" href="https://shakilcreativework-portfolio.vercel.app">shakilcreativework-portfolio.vercel.app</a>**
 
 ---
 
@@ -75,7 +75,7 @@ const shakil = {
 | 📚 **Digital Life Lessons** | Content & subscription platform for life lessons | Next.js, Stripe, MongoDB |
 | 🛒 **SunCart** | Summer essentials e-commerce store | Next.js, React, Tailwind |
 
-👉 Explore them live on my **[portfolio](https://shakilcreativework-portfolio.vercel.app)**
+👉 Explore them live on my **<a target="_blank" rel="noopener noreferrer" href="https://shakilcreativework-portfolio.vercel.app">portfolio</a>**
 
 ---
 
@@ -96,7 +96,7 @@ const shakil = {
 I'm also a **microstock contributor** crafting thousands of pixel-art assets:
 
 <p>
-  <a href="https://stock.adobe.com/contributor/211528330/shakilcreativework">
+  <a target="_blank" rel="noopener noreferrer" href="https://stock.adobe.com/contributor/211528330/shakilcreativework">
     <img src="https://img.shields.io/badge/Adobe_Stock-FA0F00?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Stock" />
   </a>
   <img src="https://img.shields.io/badge/Pixel_Art-00FF88?style=for-the-badge&logo=artstation&logoColor=black" alt="Pixel Art" />
@@ -107,8 +107,8 @@ I'm also a **microstock contributor** crafting thousands of pixel-art assets:
 ### 🤝 Let's Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/shakilcreativework"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://shakilcreativework-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-00FF88?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" /></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/shakilcreativework"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://shakilcreativework-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-00FF88?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" /></a>
 </p>
 
 ---
