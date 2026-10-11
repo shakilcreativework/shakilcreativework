@@ -65,18 +65,6 @@ const shakil = {
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shakilcreativework&show_icons=true&theme=dark&title_color=00FF88&icon_color=00FF88&text_color=FFFFFF&bg_color=0D1117&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=shakilcreativework&theme=dark&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&background=0D1117&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakilcreativework&layout=compact&theme=dark&title_color=00FF88&text_color=FFFFFF&bg_color=0D1117&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### 🚀 Featured Projects
 
 <p align="center">
@@ -88,6 +76,18 @@ const shakil = {
 </p>
 
 <p align="center">🍽️ <b>FlavorAI</b> (AI recipe generator) • 🎪 <b>Venuo</b> (event platform) • 🎨 and more live on my <a href="https://shakilcreativework-portfolio.vercel.app"><b>portfolio</b></a></p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shakilcreativework&show_icons=true&theme=dark&title_color=00FF88&icon_color=00FF88&text_color=FFFFFF&bg_color=0D1117&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=shakilcreativework&theme=dark&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&background=0D1117&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakilcreativework&layout=compact&theme=dark&title_color=00FF88&text_color=FFFFFF&bg_color=0D1117&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
@@ -118,12 +118,3 @@ I'm also a **microstock contributor** crafting thousands of pixel-art assets:
 </p>
 
 <p align="center"><i>💚 Thanks for visiting — let's build something great together!</i></p>
-
-<!--
-SETUP NOTES (delete after reading):
-1. Create a GitHub repo named EXACTLY "shakilcreativework" (your username) — must be Public.
-2. Upload README.md + header.png to it. Done — your profile now shows this README!
-3. For the snake animation: add the "github-snake" workflow (Platane/snk) to generate
-   output/github-contribution-grid-snake.svg on a schedule.
-4. Replace "shakilcreativework" everywhere if your GitHub username differs.
--->
