@@ -1,162 +1,128 @@
-![Banner](https://res.cloudinary.com/drctougur/image/upload/v1786049098/shakil-github-banner_bguoez.png)
+<img src="header.png" alt="Md Shakil Ahmed — MERN Stack Developer" width="100%"/>
 
-# 👋 Hi there, I'm Md Shakil Ahmed
-### 💻 MERN Stack Developer | Frontend & Backend Engineer
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+MongoDB;Pixel+Art+Creator+%F0%9F%8E%A8;Building+for+the+Web+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
 
-📍 **Sirajganj, Bangladesh** &nbsp;•&nbsp; 📧 [shakilcreativework@gmail.com](mailto:shakilcreativework@gmail.com) &nbsp;•&nbsp; 📱 [+880 1305330393](tel:+8801305330393) &nbsp;•&nbsp; 🌐 [Portfolio](https://shakilcreativework-portfolio.vercel.app) &nbsp;•&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/shakilcreativework)
-
-🎯 **Currently Open To:** MERN Stack, Full-Stack, Frontend, and Backend Developer roles (Remote, Hybrid, or On-site), and select contract/freelance projects.
-
-<img src="https://komarev.com/ghpvc/?username=shakilcreativework&label=Profile%20Views&color=orange&style=for-the-badge" alt="Profile views" />
-
----
-
-## 🧠 About Me
-
-I am a passionate **MERN Stack Developer** focused on engineering responsive, high-performance web interfaces and scalable, secure backend systems. With a strong foundation in modern JavaScript architectures (React.js, Next.js, Node.js, Express.js, and MongoDB), I bridge the entire development lifecycle—from clean UI/UX layout to decoupled RESTful APIs and database modeling.
-
-- 🎓 **Academic Foundation:** B.Sc. in Computer Science & Engineering from European University of Bangladesh.
-- 🎨 **Creative Advantage:** Years of experience creating digital assets as an approved contributor to Adobe Stock & Shutterstock, bringing an innate eye for typography, pixel-perfect spacing, and intuitive UX to full-stack code.
-- ⚙️ **End-to-End Execution:** Experienced in JWT authentication lifecycles, OAuth (Google & Better Auth), Stripe payment flows, and decoupled client-server architectures.
-- 🤖 **Modern Workflow:** Actively leveraging Git/GitHub, Postman, and AI-assisted engineering tools to deliver clean, maintainable, production-ready code.
-
----
-
-## 🚀 Core Capabilities
-
-- 🎨 **Frontend Engineering:** Building modular, component-driven, mobile-first applications with **React.js**, **Next.js**, **JavaScript (ES6+)**, and **Tailwind CSS**.
-- ⚙️ **Backend & REST APIs:** Architecting robust server-side APIs with **Node.js** and **Express.js**, enforcing secure routing, middleware, and authentication token lifecycles.
-- 🗄️ **Database & Modeling:** Structuring efficient schemas, indexing, and CRUD pipelines with **MongoDB** and **Mongoose**.
-- 🔐 **Authentication & Security:** Implementing JWT with refresh token rotation, session management, and OAuth integrations (Google OAuth, Better Auth).
-- ⚡ **Performance & Optimization:** Developing responsive layouts, optimizing API latency, and deploying seamless CI/CD workflows on Vercel.
-
----
-
-## ⚡ Skills & Technologies
-
-### 🎨 Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs" alt="Frontend Skills" />
-</p>
-
-### ⚙️ Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" alt="Backend Skills" />
-</p>
-
-### 🛠 Tools & Workflow
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,figma" alt="Tools" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shakilcreativework&color=00ff88&style=flat-square&label=PROFILE+VIEWS" alt="profile views" />
+  <a href="https://www.linkedin.com/in/shakilcreativework"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://shakilcreativework-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-00FF88?style=flat-square&logo=vercel&logoColor=black" alt="Portfolio" /></a>
 </p>
 
 ---
 
-## 📌 Featured Full-Stack & MERN Projects
+### 👨‍💻 About Me
 
-<br />
+```javascript
+const shakil = {
+  role: "MERN Stack Developer",
+  location: "Bangladesh 🇧🇩",
+  stack: ["React", "Next.js", "Node.js", "Express", "MongoDB"],
+  passions: ["Clean UI", "REST APIs", "AI Integrations", "Pixel Art 🎨"],
+  currentlyLearning: "Advanced Next.js patterns & System Design",
+  funFact: "I design thousands of pixel-art assets on Adobe Stock!"
+};
+```
 
-### 🍲 FlavorAI — Full-Stack AI Recipe Platform
-> **A complete full-stack web application featuring decoupled Express.js REST APIs, JWT authentication with refresh token lifecycle, Google OAuth, and interactive recipe generation.**
+- 🔭 Currently building full-stack web apps with the **MERN stack**
+- 🌱 Exploring **Next.js 15**, server actions & AI-powered features
+- 🎨 Also a **microstock contributor** — thousands of pixel-art assets on Adobe Stock
+- 💼 Open to **internships & junior developer roles** — [let's connect!](https://www.linkedin.com/in/shakilcreativework)
+- 📫 Portfolio: **[shakilcreativework-portfolio.vercel.app](https://shakilcreativework-portfolio.vercel.app)**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+---
+
+### 🛠️ Tech Stack
+
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend & Database**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+**Integrations & Tools**
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shakilcreativework&show_icons=true&theme=dark&title_color=00FF88&icon_color=00FF88&text_color=FFFFFF&bg_color=0D1117&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=shakilcreativework&theme=dark&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&background=0D1117&hide_border=true" alt="GitHub Streak" />
 </p>
-
-**[🌐 Live Demo](https://flavor-ai-client.vercel.app)** &nbsp;•&nbsp; **[📦 Client Repo](https://github.com/shakilcreativework/flavor-ai-client.git)** &nbsp;•&nbsp; **[⚙️ Server Repo](https://github.com/shakilcreativework/flavor-ai-server.git)**
-
----
-
-### 🎫 Venuo — Event Booking & Ticket Platform
-> **A production-ready event ticketing platform built with React, Express.js, and MongoDB featuring organizer ticket management, booking workflows, and decoupled API routes.**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
-**[🌐 Live Demo](https://venuo-client.vercel.app)** &nbsp;•&nbsp; **[📦 Client Repo](https://github.com/shakilcreativework/venuo-client.git)** &nbsp;•&nbsp; **[⚙️ Server Repo](https://github.com/shakilcreativework/venuo-server.git)**
-
----
-
-### 🎨 Creativedesign — Digital Resource SaaS Marketplace
-> **A modern SaaS digital resource marketplace built with Next.js, Better Auth authentication, tiered access permissions, and Cloudinary media delivery.**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
-</p>
-
-**[🌐 Live Demo](https://creativedesign-client.vercel.app)**
-
----
-
-### 📚 Digital Life Lessons — Full-Stack Content Platform
-> **A full-stack content platform featuring user accounts, Better Auth authentication, Stripe-powered subscription tiers, and MongoDB data persistence.**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
-</p>
-
-**[🌐 Live Demo](https://digital-life-lessons-client-one.vercel.app)** &nbsp;•&nbsp; **[📦 Client Repo](https://github.com/shakilcreativework/digital-life-lessons-client.git)** &nbsp;•&nbsp; **[⚙️ Server Repo](https://github.com/shakilcreativework/digital-life-lessons-sever.git)**
-
----
-
-### 🌞 SunCart — Summer Essentials Store
-> **A modern eCommerce store featuring user authentication, protected routes, product catalog management, and MongoDB integration.**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-**[🌐 Live Demo](https://suncart-store.vercel.app)** &nbsp;•&nbsp; **[📦 GitHub Repo](https://github.com/shakilcreativework/suncart-store)**
-
----
-
-## 🎓 Education & Training
-
-* **🎓 B.Sc in Computer Science & Engineering (2019 - 2023)** — *European University of Bangladesh*  
-  Built a rigorous theoretical and practical foundation in software engineering, data structures, algorithms, databases, and system design.
-
-* **📜 Diploma in Engineering (2015 - 2019)** — *Sirajganj Polytechnic Institute*  
-  Developed hands-on technical skills through practical engineering coursework, laboratory projects, and industrial attachment.
-
-* **🏆 Professional Web Developer Bootcamp (Batch 07 & Advancing in Batch 13)** — *Programming Hero (SCIC)*  
-  Completed intensive training in modern JavaScript, React.js, Next.js, Node.js, Express.js, and scalable full-stack MERN development architectures.
-
-* **🏫 Secondary School Certificate - SSC (2015)** — *General Electronics*  
-  Early foundation in electronics, logical problem solving, and technology systems.
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=shakilcreativework&theme=radical" alt="GitHub Streak" />
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakilcreativework&layout=compact&theme=dark&title_color=00FF88&text_color=FFFFFF&bg_color=0D1117&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+### 🚀 Featured Projects
 
-Have an open MERN Stack, Full-Stack, Frontend, or Backend role? Let's connect and build together.
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🍽️ **FlavorAI** | AI-powered recipe generator with smart suggestions | Next.js, Groq AI, Tailwind |
+| 🎪 **Venuo** | Event & venue management platform | React, Node.js, MongoDB |
+| 🎨 **Creativedesign** | Creative design showcase platform | Next.js, Framer Motion |
+| 📚 **Digital Life Lessons** | Blog platform sharing life lessons | MERN, Cloudinary |
+| 🛒 **SunCart** | Full-featured e-commerce with payments | MERN, Stripe |
+
+👉 Explore them live on my **[portfolio](https://shakilcreativework-portfolio.vercel.app)**
+
+---
+
+### 🎨 Beyond Code — Pixel Art
+
+I'm also a **microstock contributor** crafting thousands of pixel-art assets:
 
 <p>
-  <a href="https://www.linkedin.com/in/shakilcreativework" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:shakilcreativework@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://shakilcreativework-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://github.com/shakilcreativework" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://stock.adobe.com/contributor/211528330/shakilcreativework">
+    <img src="https://img.shields.io/badge/Adobe_Stock-FA0F00?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Stock" />
+  </a>
+  <img src="https://img.shields.io/badge/Pixel_Art-00FF88?style=for-the-badge&logo=artstation&logoColor=black" alt="Pixel Art" />
 </p>
+
+---
+
+### 🤝 Let's Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/shakilcreativework"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://shakilcreativework-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-00FF88?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shakilcreativework/shakilcreativework/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<p align="center"><i>💚 Thanks for visiting — let's build something great together!</i></p>
+
+<!--
+SETUP NOTES (delete after reading):
+1. Create a GitHub repo named EXACTLY "shakilcreativework" (your username) — must be Public.
+2. Upload README.md + header.png to it. Done — your profile now shows this README!
+3. For the snake animation: add the "github-snake" workflow (Platane/snk) to generate
+   output/github-contribution-grid-snake.svg on a schedule.
+4. Replace "shakilcreativework" everywhere if your GitHub username differs.
+-->
