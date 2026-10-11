@@ -8,6 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=shakilcreativework&color=00ff88&style=flat-square&label=PROFILE+VIEWS" alt="profile views" />
   <a href="https://www.linkedin.com/in/shakilcreativework"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://shakilcreativework-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-00FF88?style=flat-square&logo=vercel&logoColor=black" alt="Portfolio" /></a>
+  <img src="https://img.shields.io/badge/Open_to_Internships_%26_Junior_Roles-00FF88?style=flat-square&logo=github&logoColor=black" alt="Open to work" />
 </p>
 
 ---
@@ -78,15 +79,15 @@ const shakil = {
 
 ### 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🍽️ **FlavorAI** | AI-powered recipe generator with smart suggestions | Next.js, Groq AI, Tailwind |
-| 🎪 **Venuo** | Event & venue management platform | React, Node.js, MongoDB |
-| 🎨 **Creativedesign** | Creative design showcase platform | Next.js, Framer Motion |
-| 📚 **Digital Life Lessons** | Blog platform sharing life lessons | MERN, Cloudinary |
-| 🛒 **SunCart** | Full-featured e-commerce with payments | MERN, Stripe |
+<p align="center">
+  <a href="https://github.com/shakilcreativework/suncart-store"><img height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=shakilcreativework&repo=suncart-store&theme=dark&title_color=00FF88&text_color=FFFFFF&bg_color=0D1117&hide_border=true" alt="SunCart — e-commerce" /></a>
+  <a href="https://github.com/shakilcreativework/digital-life-lessons-client"><img height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=shakilcreativework&repo=digital-life-lessons-client&theme=dark&title_color=00FF88&text_color=FFFFFF&bg_color=0D1117&hide_border=true" alt="Digital Life Lessons" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/shakilcreativework/creativework"><img height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=shakilcreativework&repo=creativework&theme=dark&title_color=00FF88&text_color=FFFFFF&bg_color=0D1117&hide_border=true" alt="CreativeWork" /></a>
+</p>
 
-👉 Explore them live on my **[portfolio](https://shakilcreativework-portfolio.vercel.app)**
+<p align="center">🍽️ <b>FlavorAI</b> (AI recipe generator) • 🎪 <b>Venuo</b> (event platform) • 🎨 and more live on my <a href="https://shakilcreativework-portfolio.vercel.app"><b>portfolio</b></a></p>
 
 ---
 
